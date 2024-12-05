@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "806467948813",
+    "firebase_url": "https://chitieucanhan-c4490-default-rtdb.firebaseio.com",
+    "project_id": "chitieucanhan-c4490",
+    "storage_bucket": "chitieucanhan-c4490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806467948813:android:ac86e009216b0d4d8b6044",
+        "android_client_info": {
+          "package_name": "com.hynguyen.chitieucanhan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT4oo8TXIXKWICv22uZRAt0DePYuBd_fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
